@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>使用MAc搭建Github+Hexo教程</title>
+      <link href="/2019/06/11/number-1/"/>
+      <url>/2019/06/11/number-1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="1-本地环境的安装"><a href="#1-本地环境的安装" class="headerlink" title="1.本地环境的安装"></a>1.本地环境的安装</h1><h2 id="1-1安装Node-js"><a href="#1-1安装Node-js" class="headerlink" title="1.1安装Node.js"></a>1.1安装Node.js</h2><p>直接使用客户端安装即可，进入<a href="https://nodejs.org/en/download/" title="Node.js下载" target="_blank" rel="noopener">下载页</a>。根据提示安装，安装完成后打开终端进行测试，出现下述信息即表示安装成功（版本不一样出现的数字也不一样）。</p><pre><code>node -vv10.16.0npm -v6.9.0</code></pre><h2 id="1-2安装Git"><a href="#1-2安装Git" class="headerlink" title="1.2安装Git"></a>1.2安装Git</h2><p>进入<a href="https://git-scm.com/downloads" title="Git下载" target="_blank" rel="noopener">下载页</a>。安装成功后，打开终端进行测试。<br>codes Git –version<br>codes git version 2.21.0</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 记录一些搭建时遇到的小坑 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2019/06/10/hello-world/"/>
       <url>/2019/06/10/hello-world/</url>
